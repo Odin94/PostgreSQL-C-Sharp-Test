@@ -1,0 +1,10 @@
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\bin\Debug\PostreSQLTest.exe.config
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\bin\Debug\PostreSQLTest.exe
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\bin\Debug\PostreSQLTest.pdb
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\bin\Debug\Npgsql.dll
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\bin\Debug\Npgsql.xml
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\obj\Debug\PostreSQLTest.csprojResolveAssemblyReference.cache
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\obj\Debug\PostreSQLTest.exe
+c:\users\odin\documents\visual studio 2015\Projects\PostreSQLTest\PostreSQLTest\obj\Debug\PostreSQLTest.pdb
